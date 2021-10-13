@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Duckann
+- 👀 I’m interested in a bit of everything
+- 🌱 I’m currently learning Java
+- 📫 How to reach me twitter @duckanncs
